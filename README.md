@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba mod2
+Este es una prueba de como crear un repositorio y clonarlo desde github a nuestro escritorio local
